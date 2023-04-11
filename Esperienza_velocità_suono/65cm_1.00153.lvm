@@ -1,26 +1,3 @@
-LabVIEW Measurement	
-Writer_Version	2
-Reader_Version	2
-Separator	Tab
-Decimal_Separator	.
-Multi_Headings	Yes
-X_Columns	One
-Time_Pref	Absolute
-Operator	stud40
-Date	2023/04/04
-Time	17:55:02.8717088300347033795
-***End_of_Header***	
-	
-Channels	3			
-Samples	70000	70000	70000	
-Date	2023/04/04	2023/04/04	2023/04/04	
-Time	17:55:02.8717088300347033795	17:55:02.8717135897915515956	17:55:02.8717183497812304553	
-Y_Unit_Label	Volts	Volts	Volts	
-X_Dimension	Time	Time	Time	
-X0	0.0000000000000000E+0	0.0000000000000000E+0	0.0000000000000000E+0	
-Delta_X	1.428000E-5	1.428000E-5	1.428000E-5	
-***End_of_Header***				
-X_Value	amp_input	rec_1	rec_2	Comment
 0.000000	-0.681002	0.012478	-0.014840
 1.428000E-5	-0.680673	0.011490	0.011326
 2.856000E-5	-0.680179	-0.003320	0.015111
